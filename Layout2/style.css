@@ -1,0 +1,40 @@
+div{
+ border: 1px solid red;
+}
+
+.wrapper{
+  padding: 0px;
+  width: 1024px;
+  margin-right: 0px auto;
+
+}
+.header{
+  width: 1004px;
+  height: 100px;
+  margin: 10px;
+}
+.content{
+  width: 1004px;
+  margin: 10px;
+  height: 220px;
+}
+.left-pannel{
+  width: 482px;
+  height: 200px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+  float: left;
+}
+.right-pannel{
+  width: 482px;
+  height: 200px;
+  float: right;
+  margin-right: 10px;
+  margin-top: 10px;
+}
+.footer{
+  width: 1004px;
+ height: 100px;
+  margin: 10px;
+}
